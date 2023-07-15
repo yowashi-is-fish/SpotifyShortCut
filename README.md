@@ -10,8 +10,9 @@ Version: 0.1.0
 
 ## Features
 
-If you introduce this extension, you will be able to operate the browser version of Spotify with the keyboard to some extent.
-Also, I'm not using the Spotify API. (Some functions are not realized by this, but...)
+If you introduce this extension, you will be able to operate the browser version of Spotify with the keyboard to some extent.  
+Also, I'm not using the Spotify API.  
+(Some functions are not realized by this, but...)
 
 ## Usage
 
@@ -31,7 +32,7 @@ Also, I'm not using the Spotify API. (Some functions are not realized by this, b
 
 ## Languages
 
-All translations use Google Translate.
+All translations use Google Translate.  
 (Note: Author is Japanese)
 
 ### Supported languages

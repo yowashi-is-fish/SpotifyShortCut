@@ -1,0 +1,2 @@
+# SpotifyShortCut
+Chrome Extension

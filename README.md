@@ -18,8 +18,8 @@ Also, I'm not using the Spotify API. (Some functions are not realized by this, b
 ### Short Cut Key
 | Key          | Action       |
 | ------------ | ------------ |
-| `←`&`J`      | Back         |
-| `→`&`L`      | Next         |
+| `←` & `J`      | Back         |
+| `→` & `L`      | Next         |
 | `Space`&`K`  | Play & Pause |
 | `M`          | Mute         |
 | `R`          | Repeat       |

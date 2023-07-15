@@ -1,0 +1,29 @@
+{
+  "name":"__MSG_Name__",
+  "description":"__MSG_Description__",
+  "author": "YOWASHI",
+  "version":"0.1.0",
+  "manifest_version":3,
+  "default_locale": "en",
+
+  "icons": {
+    "128": "icon128.png"
+  },
+
+  "action": {
+    "default_popup":"html/popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches":["https://open.spotify.com/*"],
+      "js":["js/SpotifyShortCut.js"],
+      "run_at": "document_end"
+    }
+  ],
+
+  "permissions": [
+    "tabs",
+    "activeTab"
+  ]
+}

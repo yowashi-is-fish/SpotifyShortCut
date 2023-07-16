@@ -39,25 +39,25 @@ All translations use Google Translate.
 
 | Code | Language    | Json File                                                                                                      |
 | ---- | ----------- | -------------------------------------------------------------------------------------------------------------- |
-| da   | Dansk       | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/da/messages.json">View Json</a> |
-| de   | Deutsch     | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/de/messages.json">View Json</a> |
-| en   | English     | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/en/messages.json">View Json</a> |
-| es   | Español     | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/es/messages.json">View Json</a> |
-| fi   | Suomalainen | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/fi/messages.json">View Json</a> |
-| fr   | Français    | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/fr/messages.json">View Json</a> |
-| ga   | Gaeilge     | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/ga/messages.json">View Json</a> |
-| hi   | हिंदी         | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/hi/messages.json">View Json</a> |
-| it   | Italiano    | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/it/messages.json">View Json</a> |
-| ja   | 日本語       | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/ja/messages.json">View Json</a> |
-| mi   | Maori       | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/mi/messages.json">View Json</a> |
-| ms   | Melayu      | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/ms/messages.json">View Json</a> |
-| nb   | Norsk       | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/nb/messages.json">View Json</a> |
-| nl   | Nederlands  | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/nl/messages.json">View Json</a> |
-| pl   | Polski      | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/pl/messages.json">View Json</a> |
-| pt   | Português   | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/pt/messages.json">View Json</a> |
-| sv   | Svenska     | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/sv/messages.json">View Json</a> |
-| tr   | Türkçe      | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/tr/messages.json">View Json</a> |
-| zh   | 中国人       | <a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/zh/messages.json">View Json</a> |
+| da   | Dansk       | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/da/messages.json) |
+| de   | Deutsch     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/de/messages.json) |
+| en   | English     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/en/messages.json) |
+| es   | Español     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/es/messages.json) |
+| fi   | Suomalainen | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/fi/messages.json) |
+| fr   | Français    | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/fr/messages.json) |
+| ga   | Gaeilge     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/ga/messages.json) |
+| hi   | हिंदी         | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/hi/messages.json) |
+| it   | Italiano    | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/it/messages.json) |
+| ja   | 日本語       | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/ja/messages.json) |
+| mi   | Maori       | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/mi/messages.json) |
+| ms   | Melayu      | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/ms/messages.json) |
+| nb   | Norsk       | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/nb/messages.json) |
+| nl   | Nederlands  | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/nl/messages.json) |
+| pl   | Polski      | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/pl/messages.json) |
+| pt   | Português   | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/pt/messages.json) |
+| sv   | Svenska     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/sv/messages.json) |
+| tr   | Türkçe      | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/tr/messages.json) |
+| zh   | 中国人       | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/zh/messages.json) |
 
 ## Note
 

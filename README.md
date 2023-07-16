@@ -6,7 +6,7 @@ This extension is unofficial and Spotify is not affiliated in any way with the d
 
 ## Release
 
-Version: 0.1.0
+<a href="https://github.com/yowashi-is-fish/SpotifyShortCut/releases/"><img src="https://badgen.net/github/release/yowashi-is-fish/SpotifyShortCut"></a>
 
 ## Features
 

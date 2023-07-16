@@ -1,6 +1,9 @@
 # Spotify Short Cut
 
-<p align="center" dir="auto"><a href="https://github.com/yowashi-is-fish/SpotifyShortCut/releases/"><img src="https://badgen.net/github/release/yowashi-is-fish/SpotifyShortCut"></a><a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/LICENSE"><img src="https://badgen.net/github/license/micromatch/micromatch"></img></a><p>
+<p align="center">
+<a href="https://github.com/yowashi-is-fish/SpotifyShortCut/releases/"><img src="https://badgen.net/github/release/yowashi-is-fish/SpotifyShortCut" /></a>
+<a herf="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/LICENSE"><img src="https://badgen.net/github/license/micromatch/micromatch" /></a>
+<p>
 
 ## About this
 

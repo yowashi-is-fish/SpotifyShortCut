@@ -11,24 +11,23 @@ Version: 0.1.0
 ## Features
 
 If you introduce this extension, you will be able to operate the browser version of Spotify with the keyboard to some extent.  
-Also, I'm not using the Spotify API.  
-(Some functions are not realized by this, but...)
+Also, I'm not using the Spotify API. (Some functions are not realized by this, but...)
 
 ## Usage
 
 ### Short Cut Key
-| Key          | Action       |
-| ------------ | ------------ |
+| Key            | Action       |
+| -------------- | ------------ |
 | `←` & `J`      | Back         |
 | `→` & `L`      | Next         |
 | `Space` & `K`  | Play & Pause |
-| `M`          | Mute         |
-| `R`          | Repeat       |
-| `S`          | Shuffle      |
-| `T`          | Lyrics       |
-| `A`          | Like         |
-| `N`          | Next List    |
-| `D`          | Device       |
+| `M`            | Mute         |
+| `R`            | Repeat       |
+| `S`            | Shuffle      |
+| `T`            | Lyrics       |
+| `A`            | Like         |
+| `N`            | Next List    |
+| `D`            | Device       |
 
 ## Languages
 

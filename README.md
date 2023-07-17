@@ -35,10 +35,10 @@ Also, I'm not using the Spotify API. (Some functions are not realized by this, b
 All translations use Google Translate.  
 (Note: Author is Japanese)
 
-### Supported languages
+### Supported languages list
 
-| Code | Language    | Json File                                                                                                      |
-| ---- | ----------- | -------------------------------------------------------------------------------------------------------------- |
+| Code | Language    | Json File                                                                                           |
+| ---- | ----------- | --------------------------------------------------------------------------------------------------- |
 | da   | Dansk       | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/da/messages.json) |
 | de   | Deutsch     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/de/messages.json) |
 | en   | English     | [View Json](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/_locales/en/messages.json) |

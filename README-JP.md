@@ -5,7 +5,7 @@
 <a href="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/LICENSE"><img src="https://badgen.net/github/license/micromatch/micromatch" /></a>
 <p>
 
-[英語](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/README.md)
+[English](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/README.md)
 
 ## これについて
 

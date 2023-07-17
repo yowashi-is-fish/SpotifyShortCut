@@ -1,15 +1,15 @@
 # Spotify Short Cut
 
-## これについて
-
-この拡張機能は非公式であり、Spotify はこの拡張機能の開発とは一切関係ありません。
-
-## リリース
-
 <p align="center">
 <a href="https://github.com/yowashi-is-fish/SpotifyShortCut/releases/"><img src="https://badgen.net/github/release/yowashi-is-fish/SpotifyShortCut" /></a>
 <a href="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/LICENSE"><img src="https://badgen.net/github/license/micromatch/micromatch" /></a>
 <p>
+
+[英語](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/README.md)
+
+## これについて
+
+この拡張機能は非公式であり、Spotify はこの拡張機能の開発とは一切関係ありません。
 
 ## 特徴
 

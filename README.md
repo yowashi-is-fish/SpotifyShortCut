@@ -5,6 +5,8 @@
 <a href="https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/LICENSE"><img src="https://badgen.net/github/license/micromatch/micromatch" /></a>
 <p>
 
+[日本語](https://github.com/yowashi-is-fish/SpotifyShortCut/blob/main/README-JP.md)
+
 ## About this
 
 This extension is unofficial and Spotify is not affiliated in any way with the development of this extension.
